@@ -8,5 +8,7 @@
 
 ## Examples:
 1 - berlin52 (52 cities)
+
 2 - fri26 (26 cities)
+
 3 - suiss42 (42 cities)
