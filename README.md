@@ -3,7 +3,9 @@
 
 ## Algorithms used:
 1 - Genetic Algorithm
+
 2 - Simulated Annealing Algorithm
+
 3 - Nearest Neighbor Algorithm
 
 ## Examples:
